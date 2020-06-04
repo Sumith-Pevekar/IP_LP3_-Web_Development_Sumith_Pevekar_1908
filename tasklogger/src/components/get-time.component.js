@@ -1,6 +1,5 @@
 import React, { Component } from "react";
-import axios from "axios";
-import DatePicker from "react-datepicker";
+
 import "react-datepicker/dist/react-datepicker.css";
 
 export default class CreateTime extends Component {
@@ -15,8 +14,8 @@ export default class CreateTime extends Component {
   render() {
     return (
       <div>
-        <h3 className="col-10 md-5 m-5">
-          Current Date & Time:
+        <h3 className="col-10 md-5  ">
+          Current Date & Time :
           <span>
             <label> {this.state.tidate} </label>
           </span>

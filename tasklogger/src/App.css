@@ -1,6 +1,14 @@
 .App {
   text-align: center;
 }
+.sp {
+  background-image: url(./images/time.jpg);
+  height: 100vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  background-attachment: fixed;
+}
 
 .App-logo {
   animation: App-logo-spin infinite 20s linear;
