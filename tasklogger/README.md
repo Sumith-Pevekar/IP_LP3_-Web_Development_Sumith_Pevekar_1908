@@ -1,7 +1,8 @@
-Code for MERN tutorial.
+Install all dependencies then
 
-Video Tutorial: https://www.youtube.com/watch?v=7CqJlxBYj-M
+For backend to start:
+1.cd backend
+2.nodemon server
 
-Article Tutorial: https://medium.com/@beaucarnes/learn-the-mern-stack-by-building-an-exercise-tracker-mern-tutorial-59c13c1237a1
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+For frontend to start:
+1.yarn start or npm start 
